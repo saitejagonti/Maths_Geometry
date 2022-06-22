@@ -2,7 +2,7 @@
 import math
 
 def squareinfo():
-    print("A small deination for Square \n "
+    print("A small defination for Square \n "
           '"Square, in geometry, a plane figure with four equal sides and four right angles."')
 
 def squarearea(a):
